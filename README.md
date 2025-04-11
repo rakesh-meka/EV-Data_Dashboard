@@ -83,14 +83,6 @@ _Include a screenshot of your dashboard here if available_
 
 ---
 
-## 👤 Author
-
-- **Your Name**
-- LinkedIn: [Rakesh Meka](https://www.linkedin.com/in/rakeshmeka))
-- GitHub: (https://github.com/rakesh-meka)
-
----
-
 ## 🌱 License
 
 This project is open-source and free to use under the MIT License.
