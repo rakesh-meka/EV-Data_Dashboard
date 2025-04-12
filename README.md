@@ -10,8 +10,7 @@ This project provides an interactive **Tableau dashboard** to explore and visual
 ---
 
 ## 📸 Preview
-
-_Include a screenshot of your dashboard here if available_  
+ 
 ![Dashboard Preview](https://github.com/rakesh-meka/EV-Data_Dashboard/blob/67626195ec1393b0186edcb225d1a0d58ef94983/Dashboard%20Image.png)
 
 
@@ -60,7 +59,6 @@ _Include a screenshot of your dashboard here if available_
 
 - **Tableau Public / Desktop**
 - **EV Dataset (U.S. States)**
-- **Data Cleaning & Preparation**: Tableau Prep / Excel
 
 ---
 
