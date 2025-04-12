@@ -9,6 +9,12 @@ This project provides an interactive **Tableau dashboard** to explore and visual
 
 ---
 
+## 📸 Preview
+
+_Include a screenshot of your dashboard here if available_  
+(Dashboard!)[[Dashboard Image.png](https://github.com/rakesh-meka/EV-Data_Dashboard/blob/67626195ec1393b0186edcb225d1a0d58ef94983/Dashboard%20Image.png)]
+
+
 ## 📊 Dashboard Features
 
 ### 🔑 KPIs (Key Performance Indicators)
@@ -73,13 +79,6 @@ This project provides an interactive **Tableau dashboard** to explore and visual
 1. Download or clone the repo.
 2. Open `EV Analysis Dashboard.twbx` in Tableau Desktop or Tableau Public.
 3. Interact with filters (state, year, make) to explore insights.
-
----
-
-## 📸 Preview
-
-_Include a screenshot of your dashboard here if available_  
-*(e.g., dashboard.png)*
 
 ---
 
