@@ -7,8 +7,6 @@
 
 This project provides an interactive **Tableau dashboard** to explore and visualize electric vehicle (EV) data across the United States. The dashboard gives insights into the adoption patterns of **Battery Electric Vehicles (BEVs)** and **Plug-in Hybrid Electric Vehicles (PHEVs)**, highlighting trends, key metrics, and geographic distributions.
 
----
-
 ## 📸 Preview
  
 ![Dashboard Preview](https://github.com/rakesh-meka/EV-Data_Dashboard/blob/67626195ec1393b0186edcb225d1a0d58ef94983/Dashboard%20Image.png)
@@ -67,7 +65,7 @@ This project provides an interactive **Tableau dashboard** to explore and visual
 | File | Description |
 |------|-------------|
 | `EV Analysis Dashboard.twbx` | Packaged Tableau workbook (includes data and visuals) |
-| `README.mdr` | This documentation file |
+| `README.md` | This documentation file |
 | `Electric_Vehicle_Population_Data` | CSV file |
 ---
 
